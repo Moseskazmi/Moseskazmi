@@ -117,11 +117,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="www.linkedin.com/in/moses-kazmi-105812239">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:moseskazmi25@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
