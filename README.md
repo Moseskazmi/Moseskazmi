@@ -110,12 +110,6 @@
 
 </p>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKazmi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 💭 Random Dev Quote
