@@ -114,7 +114,7 @@
 
 ---
 
-# 💭 Random Dev Quote
+# 💭 Dev Quote
 
 <p align="center">
 
