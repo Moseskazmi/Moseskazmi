@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Moses Kazmi
 
-### 🎓 MCA Student (2027) | 💻 Frontend Developer | ⚛️ React.js Enthusiast
+### 🎓 MCA Student (2027) | 💻 Full Stack Developer | Python | AI/ML
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Learning+Python+with+Django;Building+Modern+Web+Applications;Open+to+Internship+Opportunities" />
 
@@ -58,7 +58,7 @@
 ## 🚀 Featured Projects
 
 ### 🎓 College Student Tracking Platform
-> React • Node.js • Express • MySQL
+**Tech:** React • Node.js • Express • MySQL
 
 - Student Management
 - Attendance Management
@@ -68,7 +68,7 @@
 ---
 
 ### 🌾 Smart Farming Assistant Using AI & IoT
-> Django • Python • MySQL • IoT
+**Tech:** Django • Python • MySQL • IoT
 
 - AI Crop Recommendation
 - Weather Analysis
@@ -78,7 +78,7 @@
 ---
 
 ### 📚 Notes Sharing System
-> HTML • CSS • JavaScript • Django
+**Tech:** HTML • CSS • JavaScript • Django
 
 - Upload & Download Notes
 - Authentication
@@ -87,7 +87,7 @@
 ---
 
 ### 🛒 Blinkit Clone
-> React • JavaScript • CSS
+**Tech:** React • JavaScript • CSS
 
 - Responsive UI
 - Shopping Cart
@@ -113,19 +113,31 @@
 
 ---
 
+## 💭 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="www.linkedin.com/in/moses-kazmi-105812239">
+<a href="https://www.linkedin.com/in/moses-kazmi-105812239" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:moseskazmi25@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-<a href="https://github.com/MosesKazmi">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/MosesKazmi" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
@@ -133,12 +145,18 @@
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MosesKazmi&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile! ⭐
+
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
