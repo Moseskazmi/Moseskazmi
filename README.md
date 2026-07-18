@@ -4,7 +4,7 @@
 
 ### 🎓 MCA Student (2027) | 💻 Full Stack Developer | Python | AI/ML
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Learning+Python+with+Django;Building+Modern+Web+Applications;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Python+with+Django;Building+Modern+Web+Applications;Open+to+Internship+Opportunities" />
 
 </div>
 
