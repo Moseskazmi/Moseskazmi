@@ -124,25 +124,18 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/moses-kazmi-105812239" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:moseskazmi25@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MosesKazmi" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/moses-kazmi-105812239" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:moseskazmi25@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MosesKazmi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
 </p>
-
 ---
 
 ## 👀 Profile Views
