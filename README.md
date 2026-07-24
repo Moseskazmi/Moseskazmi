@@ -104,9 +104,15 @@
 
 
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MosesKazmi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=MosesKazmi&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MosesKazmi&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=MosesKazmi&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKazmi&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 
