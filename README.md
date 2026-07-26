@@ -184,6 +184,6 @@
 
 ### 💙 *Code • Learn • Build • Repeat*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=blue"/>
 
 </div>
