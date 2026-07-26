@@ -127,23 +127,20 @@
 - Category Filtering
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MosesKazmi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKazmi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MosesKazmi&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MosesKazmi&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-</p>
 
 ---
 
