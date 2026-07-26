@@ -125,20 +125,36 @@
 - Product Search
 - Shopping Cart
 - Category Filtering
+
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MosesKazmi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKazmi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-## 🔥 GitHub Streak
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MosesKazmi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKazmi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MosesKazmi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MosesKazmi&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -184,6 +200,6 @@
 
 ### 💙 *Code • Learn • Build • Repeat*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 
 </div>
